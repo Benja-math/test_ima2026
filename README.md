@@ -7,4 +7,6 @@ Repositorio de prueba
 > [!NOTE]
 > hi
 
-`print('hello world')`
+```python
+print('hello world') #hi
+```
