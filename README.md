@@ -6,3 +6,5 @@ Repositorio de prueba
 ### subsubtitulo
 > [!NOTE]
 > hi
+
+`print('hello world')`
