@@ -1,0 +1,4 @@
+# ignorar archivos auxiliares de LaTeX (terminan en .aux)
+*.aux
+# .gitignore es para denotar aquellos archivos que se ignoran
+# puedes escribir el archivo explicito, o su terminacion con *
