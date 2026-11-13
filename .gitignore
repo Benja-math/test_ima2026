@@ -2,3 +2,7 @@
 *.aux
 # .gitignore es para denotar aquellos archivos que se ignoran
 # puedes escribir el archivo explicito, o su terminacion con *
+# estos archivos NO se envian al repositorio remoto, y no se descargan al clonar el repositorio.
+# Solo quedan guardados de forma local en el computador del usuario.
+.venv/
+__pycache__/
